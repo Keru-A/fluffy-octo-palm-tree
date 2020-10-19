@@ -8,6 +8,8 @@ namespace ConsoleApp1
         {
             Console.WriteLine("octy fluffy what now?");
             Console.ReadLine();
+            Console.WriteLine("I mean octopi aren't even fluffy");
+            Console.ReadLine();
 
         }
     }
