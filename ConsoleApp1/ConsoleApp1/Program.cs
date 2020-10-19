@@ -10,6 +10,12 @@ namespace ConsoleApp1
             Console.ReadLine();
             Console.WriteLine("I mean octopi aren't even fluffy");
             Console.ReadLine();
+            Console.WriteLine("Octo fluffy palm tree!!");
+            Console.WriteLine("This is a test!");
+
+            Console.WriteLine("Hope I don't mess up the -m");
+            Console.ReadLine();
+
 
         }
     }
